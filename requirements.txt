@@ -6,3 +6,4 @@ datetime
 timedelta
 yfinance
 streamlit
+stocknews
